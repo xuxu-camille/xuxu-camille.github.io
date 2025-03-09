@@ -1,0 +1,39 @@
+/* General Styles */
+body {
+    background-color: #faf7ce; 
+    color: #333; 
+    font-family: 'Arial', sans-serif; 
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+h1 {
+    color: #110d58; 
+    font-size: 2em;
+    padding: 20px;
+}
+
+/* Paragraph Formatting */
+p {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1.1em;
+    line-height: 1.5;
+}
+
+/* Main Content Box */
+#main {
+    color: #333; 
+    background-color: white; 
+    border-radius: 8px;
+    margin: 20px auto;
+}
+
+/* Class A */
+.A {
+    border: 2px solid #0084ff; 
+    padding: 10px 20px;
+    background-color: lightgrey; 
+}
